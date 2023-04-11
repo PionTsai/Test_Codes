@@ -1,3 +1,5 @@
 .vscode/c_cpp_properties.json
 SystemC/hello
 C/a.out
+SystemC/DelayHello/hello
+SystemC/HelloWorld_SystemC/hello
